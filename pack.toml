@@ -1,12 +1,12 @@
 name = "Abbie's Spectrum Pack"
 author = "Abbie"
-version = "1.5"
+version = "1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1aa2c2586da9749a873fecc2ed35956b4b61133ea219081f8edc6a4c56bebc8a"
+hash = "6297c11e23229d4d134a1c432215ea4935948e98bd3e25a01590af05f6b1e8c9"
 
 [versions]
 fabric = "0.15.6"
