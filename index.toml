@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "e6301045956cd6ba19244d05a1a99d0aff29ebf8406ce081d01c87e1b2d2cba2"
+hash = "03b85315b234e1164ad833ffaf0e50294855be42d68d6e3fb7b7ff1f2d29ba47"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
-hash = "8a53aa419a7e987bafd45a8651398b8398302b9f8a73ef844f5889bfe5a6dfa0"
+hash = "3fc07ecea8aa9868d1a93f28c39e3d1af1c7d9ca718d2bca99caddb3b17cbdec"
 metafile = true
 
 [[files]]
