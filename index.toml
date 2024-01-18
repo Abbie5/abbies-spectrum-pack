@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "fc2eabc85c2f1de3299af9dfb5c3395f3e543094c8753ccabe93dd2ac36085e2"
+
+[[files]]
 file = "config/spelunkery-common.json"
 hash = "276861a07fe45549408f44d48250a6c70876b859f27fb3ebe98ea0ea493c1afc"
 
@@ -52,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c15f75a0ddc939d5af051e95802329210382370dad35524129a8169f564e9e62"
 metafile = true
 
 [[files]]
@@ -260,6 +269,11 @@ hash = "baac04be6dfec29d210c53eadddb7f6f0be051ddcf36300c0ce718fc9680a399"
 metafile = true
 
 [[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "e6301045956cd6ba19244d05a1a99d0aff29ebf8406ce081d01c87e1b2d2cba2"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
@@ -272,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
-metafile = true
-
-[[files]]
-file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "a5a35409e4f34f4ef6fbec6cb7749bdcf4406e9c571ef62beef18e4118510a9e"
 metafile = true
 
 [[files]]
@@ -300,8 +309,28 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "8a53aa419a7e987bafd45a8651398b8398302b9f8a73ef844f5889bfe5a6dfa0"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "f60af785185f848a206bf8b0e7e115534756f87b2723b16c28f9d9293d9fb004"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "af58df85b0e4279cd3df04e84da1ddef9ed4d122c1de83c473ceffa79d73c875"
+metafile = true
+
+[[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "8770e34e1709f06d746a406646fdcef2b0861475ad3691d633b2a174453a24bb"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "b5b29cbaedc1166ecbb69d1911476beaa57ad06ff5ace899c4e7f702b93d327e"
 metafile = true
 
 [[files]]
