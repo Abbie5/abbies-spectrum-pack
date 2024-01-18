@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8fd52f2eea6f7821ade1d39dcf0e38541bb932dd064e98083f443047072242a7"
+hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "046f0770af4e350abfd3fc586708bf6be71305be8de9cf775b0af9742b6edee6"
+hash = "0e8a5f0c1e5d306dcdb4819c799a388eca32429169a3cf0a2bee07124c547639"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "a1543381f5e97b151f68ca747532dc3f24946be87f39b1f2ad3dc40fc4613d76"
+hash = "84c42dacf85a521958f11307719e3f38f0a2b40818d3c35f9f4933a7bdda001c"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "50f698d31492226ebbd21548f6356b4f8c1e075f2dbcb50f459561a7b281c6ac"
+hash = "b20e46e7282424f8547830835d2d48f53fd403f499c74b7ae61c7bc157d1098d"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3de9862896a2880f19867f600f5ca6d9c89865493f405c378f0d9c224152c2f6"
+hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
 metafile = true
 
 [[files]]
@@ -210,17 +210,17 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
+hash = "d4262ea81d416c9eea211bcfec4af1658df6fa430a99cc255978fc5911df04bd"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
 metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "c5bc71474074d35ec411cc95734b9ded5c27bf26564a166bec9750e2aa40b3c6"
+hash = "a9c2476331ad203ab4b213dde28b72ffb2c95cb0c485022874b75c1056c7ba5d"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "62f4a71cda59fc51628ad84bd47f1cc49f02655590f2748a77603a30acdda83e"
+hash = "26273936112df19b57cec0c08097e2d865abddd4264a18de2a4dcd4f135bf19b"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "8770e34e1709f06d746a406646fdcef2b0861475ad3691d633b2a174453a24bb"
+hash = "1d37c00e9f5df7dc39fc26a86302996084eb05c7ef645d2fa42e33efbc48ccbc"
 metafile = true
 
 [[files]]
