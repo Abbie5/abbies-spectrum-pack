@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
@@ -26,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "c8d6155b0eadfefee94e24f939bce91949b17ab080b41f81e23631f7715fc89c"
 metafile = true
 
 [[files]]
@@ -71,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "594641f9f5841c8df77d97cb5f122f71843b37ddbebd64e157fb28ad94dc72c4"
 metafile = true
 
 [[files]]
@@ -184,6 +194,11 @@ hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f81d2b9162badfd08750ae49b90267e3a1fce86a17507be6903f35640df59b15"
+metafile = true
+
+[[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
 metafile = true
@@ -241,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "790a3acc76e4b1393a7745b8a24a9f51213e23db0297f60bc6a2ef83c2d0e5e6"
 metafile = true
 
 [[files]]
@@ -340,12 +360,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "122d6ebd6ee7942e10f825b7611e63a5898189e4631bacadd8565a69892a4b93"
+hash = "48634ec2a2735f1f9244da1ab9778e45074d67a6b2fedfaedf267db7694de22c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "110c0e172f2719b6efb982c91e34f112e67fa2876feb62a5a21b854ba4ad8917"
+hash = "19453818afbb6273698fe83daf77a29646ee9acc55da15414e8c51d63a2b05e9"
 metafile = true
 
 [[files]]
