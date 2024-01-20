@@ -284,6 +284,11 @@ hash = "925b4f5edc7765383d51b066c70b5d19256927ac07373eb63080e346e97993ed"
 metafile = true
 
 [[files]]
+file = "mods/quickstack.pw.toml"
+hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "baac04be6dfec29d210c53eadddb7f6f0be051ddcf36300c0ce718fc9680a399"
 metafile = true
