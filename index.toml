@@ -298,6 +298,11 @@ hash = "baac04be6dfec29d210c53eadddb7f6f0be051ddcf36300c0ce718fc9680a399"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "a0be9ec4f1c38f0f69c212aa12577233daadc81e453fcad0bef4ae5829023cdb"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "03b85315b234e1164ad833ffaf0e50294855be42d68d6e3fb7b7ff1f2d29ba47"
 metafile = true
