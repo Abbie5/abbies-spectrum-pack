@@ -68,6 +68,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "85548ab17eee379f0de617ea4f9c6ac0ed073525d80be571b38b1be4f5c1d59c"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "c15f75a0ddc939d5af051e95802329210382370dad35524129a8169f564e9e62"
 metafile = true
