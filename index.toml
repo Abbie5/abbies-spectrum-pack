@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "49894fce64f721989f795bfc3719b417dbf14177bad4d8a3e290cebe6ed7e0e2"
+hash = "fe86a9613beb07de8f51e52370982293c2f8e96885e72afc48eb414dc83f728a"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
-hash = "fc2eabc85c2f1de3299af9dfb5c3395f3e543094c8753ccabe93dd2ac36085e2"
+hash = "d63d8e19d79635de58373b40719980310307b36a1865f991632d58cb902cb674"
 
 [[files]]
 file = "config/spelunkery-common.json"
