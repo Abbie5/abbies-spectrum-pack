@@ -338,6 +338,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "b4d74624eb3790807e1d83734db2079cb020b8fbefb3822869d61742a79591ea"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
