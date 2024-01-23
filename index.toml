@@ -13,6 +13,10 @@ file = "config/spelunkery-common.json"
 hash = "276861a07fe45549408f44d48250a6c70876b859f27fb3ebe98ea0ea493c1afc"
 
 [[files]]
+file = "config/toolstats.json"
+hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
 metafile = true
@@ -90,11 +94,6 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "ff039f270f97ada2f1c6a7db83fdb38aa2fb35d0fd5596fec7b3c9382f1ea2d1"
-metafile = true
-
-[[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "9e3edbc66f06eac2f4486b52223cd19ad80a4c967162615959ddd183064d0f12"
 metafile = true
 
 [[files]]
