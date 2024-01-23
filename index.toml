@@ -327,6 +327,11 @@ hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "76e4ea239bb4f733b8e92ef2086f5b303e7c15ea909d73152873189dc6da003f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
