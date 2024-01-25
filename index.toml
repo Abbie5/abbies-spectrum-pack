@@ -57,6 +57,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/charmonium.pw.toml"
+hash = "0a5b4300bdbed5d25178eba24cd37a42457b45fcb0e2eaf595bc1383e9bf0aff"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
@@ -312,6 +317,11 @@ hash = "ab8a61d7a20765111dbfa78162f6a7bd60e567974d795c1e5f3f20e13c95e9bf"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "0ce7479b02ecf26e83dd032779d0e63fbf26bc418a50a7445be512b2b2117e4e"
+metafile = true
+
+[[files]]
 file = "mods/quickstack.pw.toml"
 hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
 metafile = true
@@ -339,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "93472ced30b466e42b57784d3074804476a08a923f4e09e26bad8aa7573b2992"
 metafile = true
 
 [[files]]
