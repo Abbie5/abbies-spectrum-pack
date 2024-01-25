@@ -297,6 +297,16 @@ hash = "925b4f5edc7765383d51b066c70b5d19256927ac07373eb63080e346e97993ed"
 metafile = true
 
 [[files]]
+file = "mods/practical-plushies-animals.pw.toml"
+hash = "1b7a30bb0e52b7f725c82b41dbfcb2913408444afa97d61acfa10a26846ac275"
+metafile = true
+
+[[files]]
+file = "mods/practical-plushies-mobs.pw.toml"
+hash = "ab8a61d7a20765111dbfa78162f6a7bd60e567974d795c1e5f3f20e13c95e9bf"
+metafile = true
+
+[[files]]
 file = "mods/quickstack.pw.toml"
 hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
 metafile = true
