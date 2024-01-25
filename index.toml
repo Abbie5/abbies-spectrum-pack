@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "c8d6155b0eadfefee94e24f939bce91949b17ab080b41f81e23631f7715fc89c"
+hash = "8a3222b1deebd6e4bb1a3c4888be7fae5a984b950e3bc43164b5026a8b56c21e"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "594641f9f5841c8df77d97cb5f122f71843b37ddbebd64e157fb28ad94dc72c4"
+hash = "dfc40d2a18dc996bd43c0c9d8f542a1dfbc16e19538c8c9813b7e114e720df6d"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.pw.toml"
-hash = "c52f1538cf0f9e912bd3af5699b82a6a597cc52b17166613103c2a3c1f212432"
+hash = "2fa55fd12ac8ab3c2db348ba92d6bd97fc6065ef162b991510770b754ac8bf12"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f81d2b9162badfd08750ae49b90267e3a1fce86a17507be6903f35640df59b15"
+hash = "270b4bfe679460b479f3c81e4f4d190bdc07529b1c6cda38a142246e0e34f962"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "790a3acc76e4b1393a7745b8a24a9f51213e23db0297f60bc6a2ef83c2d0e5e6"
+hash = "8138c9501b763c0adc6255eebf285bcce7a51ed84f242c8acec51186e97dba7b"
 metafile = true
 
 [[files]]
@@ -408,12 +408,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a7fba1cf4d5ad636b11b3f9c0bc82ec39408059bbaeb20b346cfbd389b85361a"
+hash = "af3e0d11394660768e9ab793527dd85277159419fd48578edda6c84d897f5ab3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6a2c2d6beeded16284c5811aec08570bb9d25b0ffa619f6755e2c5269b5b8179"
+hash = "6cf4de7077854c982c2b159d7dbfa9675c089bbde50b2b0939699b499bfc9e8c"
 metafile = true
 
 [[files]]

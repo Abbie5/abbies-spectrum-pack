@@ -3,7 +3,7 @@ filename = "durabilityviewer-1.20-fabric0.83.0-1.10.5.jar"
 side = "client"
 
 [option]
-optional=true
+optional = true
 
 [download]
 url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/iVlTsxR7/durabilityviewer-1.20-fabric0.83.0-1.10.5.jar"

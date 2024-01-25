@@ -3,7 +3,7 @@ filename = "Xaeros_Minimap_23.9.3_Fabric_1.20.jar"
 side = "client"
 
 [option]
-optional=true
+optional = true
 
 [download]
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/KSDcShTK/Xaeros_Minimap_23.9.3_Fabric_1.20.jar"
