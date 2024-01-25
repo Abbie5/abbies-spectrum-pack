@@ -102,6 +102,11 @@ hash = "ff039f270f97ada2f1c6a7db83fdb38aa2fb35d0fd5596fec7b3c9382f1ea2d1"
 metafile = true
 
 [[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "c52f1538cf0f9e912bd3af5699b82a6a597cc52b17166613103c2a3c1f212432"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
