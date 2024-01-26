@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d4262ea81d416c9eea211bcfec4af1658df6fa430a99cc255978fc5911df04bd"
+hash = "7b2f178be51b01b0ce78c3f8e1d9f4c3da9b447726fb6b5acefeae4a4900e0cf"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempest.pw.toml"
-hash = "c7f6fa31fe394c1282a16f3f82a48b970de828b9abefb6f37f55a3e9f405b426"
+hash = "1e2f17ca183438fa9a35e0d51ae2488f890d1b54e7c4bae9f69e486905d5b473"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/where-is-it.pw.toml"
-hash = "83b9c27fbab54457a75ec9a8aa8213fea862679333718f3a5496b162ce9b4056"
+hash = "ff1c86dfe9b625dd38cd6165e8f876dd9878eb9cecd383f0353b00052eacf966"
 metafile = true
 
 [[files]]
@@ -503,12 +503,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "af3e0d11394660768e9ab793527dd85277159419fd48578edda6c84d897f5ab3"
+hash = "dec1f6ff15fc7f5190ea3f090663d6846eac9b6f37ce4643831fb55fed393e88"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6cf4de7077854c982c2b159d7dbfa9675c089bbde50b2b0939699b499bfc9e8c"
+hash = "39243560b47c45ee32c45814d745078529754b5a61d9f5ff72c8af690427f7e3"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "30eb4ef58b844bc7570a276b7132404b1f26071019e40423d1bc7a67bba16aae"
+hash = "b94e3b9a06b0fdd1c40d68d1cfa3b8eca67d17c30ae35c0e4a81555950a20fc3"
 metafile = true
 
 [[files]]
