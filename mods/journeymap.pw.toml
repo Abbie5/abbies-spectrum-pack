@@ -4,6 +4,7 @@ side = "both"
 
 [option]
 optional = true
+description = "Featureful minimap and world map."
 
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/jEeKb7lx/journeymap-1.20.1-5.9.18-fabric.jar"

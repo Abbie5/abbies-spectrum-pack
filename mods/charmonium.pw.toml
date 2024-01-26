@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Adds some ambient sounds. Not recommended to use with Dynamic Surroundings or AmbientSounds."
 
 [download]
 url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/zGytYDIS/charmonium-fabric-1.20.1-6.0.7.jar"

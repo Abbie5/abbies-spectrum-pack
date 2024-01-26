@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Adds ambient sounds as well as some ambient visual effects. Not recommended to use with AmbientSounds or Charmonium."
 
 [download]
 url = "https://cdn.modrinth.com/data/H7fshfpD/versions/df0s2CJR/DynamicSurroundings-Fabric-1.20.1-0.3.0.jar"

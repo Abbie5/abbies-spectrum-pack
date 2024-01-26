@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Increases render distance using LODs (Levels of Detail). Does not work with Nvidium."
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"

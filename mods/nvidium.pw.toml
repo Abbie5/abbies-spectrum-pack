@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Allows for greatly increased render distance on Nvidia 16xx or newer GPUs when combined with Bobby. Experimental."
 
 [download]
 url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/UO1crPGk/nvidium-0.2.5-beta.jar"

@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Caches chunks on the client, allows for greater render distance. Required for Nvidium."
 
 [download]
 url = "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"

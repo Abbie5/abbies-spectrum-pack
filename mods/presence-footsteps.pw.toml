@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Enhanced footstep sounds. Pairs well with other sound mods."
 
 [download]
 url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/pOCYcZUF/PresenceFootsteps-1.9.1.jar"
