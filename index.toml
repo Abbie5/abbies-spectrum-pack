@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "fe86a9613beb07de8f51e52370982293c2f8e96885e72afc48eb414dc83f728a"
+hash = "c3ad587d1a4ed984df1c2077b2710f2debc2ff75879c4cb5da5007c1bff4d67e"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
