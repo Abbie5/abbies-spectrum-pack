@@ -22,6 +22,11 @@ hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "fbc98cdb0f08175bbea7707f09aff40c325897fa56f5c9f859070c29c6b80e96"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -107,6 +112,11 @@ hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
@@ -129,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "5f272ed9a068fb1c899f16fe529f25f10d1646e3db105610605ddf0571df1abc"
 metafile = true
 
 [[files]]
@@ -279,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "d4262ea81d416c9eea211bcfec4af1658df6fa430a99cc255978fc5911df04bd"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
 
 [[files]]
