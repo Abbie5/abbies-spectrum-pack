@@ -256,6 +256,11 @@ hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "c6ec637e489f7ad1e627b82539dd8a96034a1de10609efe5364b3395cc304a3f"
 metafile = true
@@ -488,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "f57863fce099ada23eff10706c7a0dbed7487860a3c1f0858961af7541e946cd"
+metafile = true
+
+[[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "04c30338459c2c9d9087dd7bcc2734745b51230a20ab04d392a85dbeb2c0c5de"
 metafile = true
 
 [[files]]
