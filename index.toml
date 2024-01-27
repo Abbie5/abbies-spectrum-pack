@@ -261,6 +261,11 @@ hash = "c6ec637e489f7ad1e627b82539dd8a96034a1de10609efe5364b3395cc304a3f"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "78d4ac6aa17d84a6c200abd253aca4c2980a5394dbe5aaa960f3ea28f154bb44"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
@@ -408,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "8360edab4ec1ab17b80808869d5dad024a10b422ba77c13cf42368cfde6eb416"
 metafile = true
 
 [[files]]
