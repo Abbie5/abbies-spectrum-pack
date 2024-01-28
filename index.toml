@@ -13,6 +13,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "d63d8e19d79635de58373b40719980310307b36a1865f991632d58cb902cb674"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "9fa7eb7c79ea6732db433e0df04cc7a39cd49362689b1db30912ff5f6f7f6fa5"
+
+[[files]]
 file = "config/spelunkery-common.json"
 hash = "276861a07fe45549408f44d48250a6c70876b859f27fb3ebe98ea0ea493c1afc"
 
@@ -236,13 +240,8 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
-file = "mods/inventory-essentials.pw.toml"
-hash = "f189a196fafc5f3394f5e3ab523245d7ddd9e86065da937e041520903b919d69"
-metafile = true
-
-[[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
 metafile = true
 
 [[files]]
@@ -283,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
@@ -393,11 +397,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "082916b3f21f39c7ed3b4beb547c987aca512a07b2dbb0456e3bd2332a989ec2"
-metafile = true
-
-[[files]]
-file = "mods/quickstack.pw.toml"
-hash = "c6423eeef60aacad291b03c9b348e10e9243ffa317ccc0feeeadc08cb08316c5"
 metafile = true
 
 [[files]]
