@@ -385,16 +385,6 @@ hash = "925b4f5edc7765383d51b066c70b5d19256927ac07373eb63080e346e97993ed"
 metafile = true
 
 [[files]]
-file = "mods/practical-plushies-animals.pw.toml"
-hash = "1b7a30bb0e52b7f725c82b41dbfcb2913408444afa97d61acfa10a26846ac275"
-metafile = true
-
-[[files]]
-file = "mods/practical-plushies-mobs.pw.toml"
-hash = "ab8a61d7a20765111dbfa78162f6a7bd60e567974d795c1e5f3f20e13c95e9bf"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "082916b3f21f39c7ed3b4beb547c987aca512a07b2dbb0456e3bd2332a989ec2"
 metafile = true
