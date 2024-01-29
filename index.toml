@@ -50,6 +50,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "af0c7ee46afc4a5dcce1d6d01ef668d18d1dbe5560f5d03e2608f55cc0163b33"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "85548ab17eee379f0de617ea4f9c6ac0ed073525d80be571b38b1be4f5c1d59c"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "f292a7607f682264fa89245e1851c21bc654fedebf3c9b0d60decc275e512549"
 metafile = true
 
 [[files]]
