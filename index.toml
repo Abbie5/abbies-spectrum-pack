@@ -455,11 +455,6 @@ hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
 
 [[files]]
-file = "mods/tempest.pw.toml"
-hash = "1e2f17ca183438fa9a35e0d51ae2488f890d1b54e7c4bae9f69e486905d5b473"
-metafile = true
-
-[[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
 metafile = true
