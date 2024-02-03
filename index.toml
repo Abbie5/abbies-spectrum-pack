@@ -10,7 +10,7 @@ hash = "c61c44ddc0a94c9b1b59cf153d03c28ff95bc9d2fdd3d5366a0ab1b8ef0d6e3f"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
-hash = "d63d8e19d79635de58373b40719980310307b36a1865f991632d58cb902cb674"
+hash = "7fea03799b2a7c025acb4abe90aff8279923c891f4800afa9f09bd761cf829a0"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
