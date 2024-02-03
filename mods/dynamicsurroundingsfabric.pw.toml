@@ -1,17 +1,17 @@
 name = "Dynamic Surroundings: Fabric Edition"
-filename = "DynamicSurroundings-Fabric-1.20.1-0.3.0.jar"
+filename = "DynamicSurroundings-Fabric-1.20.1-0.3.1.jar"
 side = "client"
 
-[option]
-optional = true
-description = "Adds ambient sounds as well as some ambient visual effects. Not recommended to use with AmbientSounds or Charmonium."
-
 [download]
-url = "https://cdn.modrinth.com/data/H7fshfpD/versions/df0s2CJR/DynamicSurroundings-Fabric-1.20.1-0.3.0.jar"
+url = "https://cdn.modrinth.com/data/H7fshfpD/versions/d3ft8eE3/DynamicSurroundings-Fabric-1.20.1-0.3.1.jar"
 hash-format = "sha1"
-hash = "d0fcb91783fe70a119e866700b14dfd1db2a9c8c"
+hash = "a8d41879d6a903addbbd67ae13bd5d970ca16815"
 
 [update]
 [update.modrinth]
 mod-id = "H7fshfpD"
-version = "df0s2CJR"
+version = "d3ft8eE3"
+
+[option]
+optional = true
+description = "Adds ambient sounds as well as some ambient visual effects. Not recommended to use with AmbientSounds or Charmonium."
