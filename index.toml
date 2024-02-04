@@ -404,11 +404,6 @@ hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
 metafile = true
 
 [[files]]
-file = "mods/scarves.pw.toml"
-hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
-metafile = true
-
-[[files]]
 file = "mods/servux.pw.toml"
 hash = "a0be9ec4f1c38f0f69c212aa12577233daadc81e453fcad0bef4ae5829023cdb"
 metafile = true
