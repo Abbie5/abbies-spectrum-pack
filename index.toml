@@ -6,7 +6,7 @@ hash = "7a524bcd7dda011efae6f9865b8de3dc128a81fdc9b1873d483234e11387766c"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "c61c44ddc0a94c9b1b59cf153d03c28ff95bc9d2fdd3d5366a0ab1b8ef0d6e3f"
+hash = "a19948ab53caef38a1d3bbd1601dc6281baae9068bdec036519ca73096d8fe4b"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
@@ -37,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
-metafile = true
-
-[[files]]
-file = "mods/auto-third-person.pw.toml"
-hash = "b795f82c6f1f34676cd52ee7acc49bf9ef2469762c25b707bc8e0f2d3dab27a2"
 metafile = true
 
 [[files]]
