@@ -25,6 +25,10 @@ file = "config/toolstats.json"
 hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
 [[files]]
+file = "config/yigd.json"
+hash = "c0ed8815efdc040a72c43c04f0c6fdea1da8aaf8101d203969a6ba9e495499f3"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
 metafile = true
