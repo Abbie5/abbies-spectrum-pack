@@ -89,6 +89,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "3a2305e02083b38095aa5e4e3ff2e16f63ff6dd27f946e3bb829392bdc77325b"
 metafile = true
@@ -304,6 +309,11 @@ hash = "badc0b9411d65dca5904930414c12777077cb7ad339763cb74866b971751bb7e"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "3d9f5988a15113ba125aa4b9ebd95c619514cb50c94af646865c1f06cc540c47"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -311,6 +321,16 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "df3bf405458a14ae114177c33956530f4fe98b2962b9446e9b7955c5e09dee17"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e20c2cf2d46b7c5b65084bdb14a8bd01d308664b43e3feb5fbfcf97a02304ac3"
 metafile = true
 
 [[files]]
@@ -459,6 +479,11 @@ hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "28f7943a258e99a7c13f5963259586f53eeddcc79913b615d848885d7f480022"
+metafile = true
+
+[[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
 metafile = true
@@ -476,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "5db242fdb8203c919164572e56d6e4da0fdfc840e7a2618b7419f0cd852fe04c"
 metafile = true
 
 [[files]]
