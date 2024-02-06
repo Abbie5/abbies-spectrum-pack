@@ -25,6 +25,10 @@ file = "config/toolstats.json"
 hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
 [[files]]
+file = "config/waila/waila_plugins.json"
+hash = "0dbcdaf5cd8c29b0305e93c2d4c1c64d4fde6e51b782a6732f67dfb1be21211e"
+
+[[files]]
 file = "config/yigd.json"
 hash = "c0ed8815efdc040a72c43c04f0c6fdea1da8aaf8101d203969a6ba9e495499f3"
 
@@ -41,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
@@ -81,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+hash = "2c44652bbda4fe3994fafbb44ce756e0edccf17e449b865c5021e51877768682"
 metafile = true
 
 [[files]]
@@ -264,11 +278,6 @@ hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
-metafile = true
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
@@ -326,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "5aa4ffe61bcb3198e2837d972afbdf66b64e47aa5f47bcf49605b8cf91724713"
 metafile = true
 
 [[files]]
@@ -541,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "2dc17cfe6d496b4872743ed7c26b2ed135bbd6c9036d3b5276142e4bf1980f1e"
 metafile = true
 
 [[files]]
