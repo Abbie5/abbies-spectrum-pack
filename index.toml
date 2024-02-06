@@ -13,6 +13,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "7fea03799b2a7c025acb4abe90aff8279923c891f4800afa9f09bd761cf829a0"
 
 [[files]]
+file = "config/inventorio_shared.json"
+hash = "0789c15fe866aa49090ac82989401222ee2ce7025a830e9ff3300072eb204833"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "9fa7eb7c79ea6732db433e0df04cc7a39cd49362689b1db30912ff5f6f7f6fa5"
 
@@ -31,6 +35,14 @@ hash = "0dbcdaf5cd8c29b0305e93c2d4c1c64d4fde6e51b782a6732f67dfb1be21211e"
 [[files]]
 file = "config/yigd.json"
 hash = "c0ed8815efdc040a72c43c04f0c6fdea1da8aaf8101d203969a6ba9e495499f3"
+
+[[files]]
+file = "global_packs/required_data/default/data/enchantery/tags/enchantment/only_obtainable_from_villager_trading.json"
+hash = "c8347c3779e59c52607bb3d0bd3d15dc6fa57911f613df26921cf4460fb37e52"
+
+[[files]]
+file = "global_packs/required_data/default/pack.mcmeta"
+hash = "fb22a9493fd1199c7e22b92a57d23dd789b1431ba705942359824573ab88348f"
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
@@ -258,6 +270,11 @@ hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
@@ -265,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/inventorio.pw.toml"
+hash = "f89e851b9b254a3bfc5315021ccd6d739061978d98284a3681dc24b251f7d812"
 metafile = true
 
 [[files]]
