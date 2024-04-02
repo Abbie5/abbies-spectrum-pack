@@ -432,6 +432,11 @@ hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
 metafile = true
 
 [[files]]
+file = "mods/scout.pw.toml"
+hash = "165ae0e8372b385ce08ef55645af17b9affaf4f8db123a060e2e7eb766c4bedd"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "a0be9ec4f1c38f0f69c212aa12577233daadc81e453fcad0bef4ae5829023cdb"
 metafile = true
@@ -519,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "f57863fce099ada23eff10706c7a0dbed7487860a3c1f0858961af7541e946cd"
+metafile = true
+
+[[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "04c30338459c2c9d9087dd7bcc2734745b51230a20ab04d392a85dbeb2c0c5de"
 metafile = true
 
 [[files]]
