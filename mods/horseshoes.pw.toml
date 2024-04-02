@@ -1,0 +1,13 @@
+name = "Horseshoes"
+filename = "horseshoes-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tyg1IZwj/versions/YAYkwjin/horseshoes-1.0.1.jar"
+hash-format = "sha1"
+hash = "538c591a4999f3504b876c3a4e2a936e2c2ba697"
+
+[update]
+[update.modrinth]
+mod-id = "tyg1IZwj"
+version = "YAYkwjin"

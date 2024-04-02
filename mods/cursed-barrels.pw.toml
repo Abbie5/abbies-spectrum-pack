@@ -1,0 +1,13 @@
+name = "Cursed Barrels"
+filename = "cursed-barrels-1.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6d6XY0Q7/versions/AiUBZmTv/cursed-barrels-1.0.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "c1a98cd82af737e4e241e46ccc0f94dff7ba4dac"
+
+[update]
+[update.modrinth]
+mod-id = "6d6XY0Q7"
+version = "AiUBZmTv"
