@@ -6,7 +6,7 @@ hash = "7a524bcd7dda011efae6f9865b8de3dc128a81fdc9b1873d483234e11387766c"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "a19948ab53caef38a1d3bbd1601dc6281baae9068bdec036519ca73096d8fe4b"
+hash = "1c53945c001691dc073d4ebee43b48b13d0a69cb73db21f5e05d930d211b2d84"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
