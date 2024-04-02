@@ -659,3 +659,11 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "59921dc072bf60d109599813677d754df7dee52bc63c49b5228708cd533a9ab6"
+
+[[files]]
+file = "xaerominimap-common.txt"
+hash = "3207f2641a911313fd2c4104c1a4f82e8153385a4d33ada56bde5bf08ca4f427"
+
+[[files]]
+file = "xaeroworldmap-common.txt"
+hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
