@@ -377,11 +377,6 @@ hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
