@@ -18,7 +18,7 @@ hash = "9fa7eb7c79ea6732db433e0df04cc7a39cd49362689b1db30912ff5f6f7f6fa5"
 
 [[files]]
 file = "config/spelunkery-common.json"
-hash = "276861a07fe45549408f44d48250a6c70876b859f27fb3ebe98ea0ea493c1afc"
+hash = "2e179706b8b815742fdb116fb09e40e158ada49ac678b816c3a0f5cd80535485"
 
 [[files]]
 file = "config/toolstats.json"

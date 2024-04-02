@@ -7,7 +7,7 @@
     "parachute_delay": 10,
     "enable_rough_gems": true,
     "enable_raw_nuggets": true,
-    "ore_stone_drops": true
+    "ore_stone_drops": false
   },
   "slimes": {
     "increased_slime_spawn_rate": true,
